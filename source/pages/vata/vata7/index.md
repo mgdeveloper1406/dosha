@@ -14,5 +14,37 @@ keywords:
 ---
 
 # Vata7
+Ingredients:
 
-It works! =)
+1 cup basmati rice
+
+2 cups almond milk
+
+1 cup water
+
+1/2 cup coconut milk
+
+1/4 cup maple syrup
+
+1 tsp ground ginger
+
+1/2 tsp ground cinnamon
+
+1/4 tsp ground cardamom
+
+1/4 cup chopped almonds
+
+1/4 cup raisins
+
+Instructions:
+
+Rinse the basmati rice under cold water until the water runs clear.
+
+In a medium pot, combine the rice, almond milk, and water. Bring to a boil, then reduce heat to low and cover. Simmer for 15-20 minutes, or until the rice is tender and the liquid is absorbed.
+
+
+Stir in the coconut milk, maple syrup, ground ginger, ground cinnamon, and ground cardamom. Cook for an additional 5 minutes, stirring frequently.
+
+Remove from heat and stir in the chopped almonds and raisins.
+
+Serve warm.
