@@ -13,8 +13,8 @@ keywords:
 - Vata7
 ---
 
-# Vata7
-![Gif Image](https://i.pinimg.com/originals/f8/93/a4/f893a4a4ebe5cc7292dc2015d193214f.gif)
+# Ginger-Spiced Rice Pudding
+
 Ingredients:
 
 1 cup basmati rice
